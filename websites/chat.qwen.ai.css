@@ -12,7 +12,9 @@ section,
 #chat-container > div,
 .bg-gradient-to-b,
 .font-primary > .bg-white,
-#chat-container {
+#chat-container,
+#sidebar,
+.navbar-bg {
   background-color: transparent !important;
   background: none !important;
   border: none !important;
